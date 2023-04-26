@@ -10,6 +10,10 @@
   },
   "author": "ranshaw",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranshaw/html-webpack-plugin-add-asset-version.git"
+  },
   "keywords": [
     "webpack",
     "plugin",
