@@ -1,6 +1,5 @@
 ## Installation
 
-### Webpack 5
 
 ```javascript
       npm i --save-dev html-webpack-plugin-add-asset-version
@@ -10,9 +9,6 @@
       yarn add --dev html-webpack-plugin-add-asset-version
 ``` 
 
-### Webpack 4
-
-no support
 
 ## Basic Usage
 

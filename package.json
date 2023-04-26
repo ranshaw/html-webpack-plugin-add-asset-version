@@ -2,7 +2,7 @@
   "name": "html-webpack-plugin-add-asset-version",
   "version": "1.0.0",
   "description": "Add a version number to the specified file",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "dev": "cd ./example && npm run start",
     "build:example": "cd ./example && npm run build",
