@@ -1,0 +1,23 @@
+{
+  "name": "html-webpack-plugin-add-asset-version",
+  "version": "1.0.0",
+  "description": "Add a version number to the specified file",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd ./example && npm run start",
+    "build:example": "cd ./example && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ranshaw",
+  "license": "ISC",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html",
+    "html-webpack-plugin",
+    "clear cache",
+    "add version number"
+  ],
+  "devDependencies": {},
+  "dependencies": {}
+}
